@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Morguilar//VR Final Project//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:morguilar-vr-demo-20261208@ugavrclass2026.github.io
+DTSTAMP:20261117T170000Z
+DTSTART:20261208T170000Z
+DTEND:20261208T200000Z
+SUMMARY:Morguilar | UGA Virtual Reality Public Demo
+DESCRIPTION:Meet Daniel Aguilar and Olivier Morsink at the CSCI 4830/6830
+  public final project demonstration. Exact location to be announced.
+LOCATION:University of Georgia - exact location to be announced
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
